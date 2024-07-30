@@ -8,6 +8,7 @@ print ('Hello World 2') # alternative way
 print ("'Hello World 3'") # to print single quotation
 # for number you don't need to use single or double quotation
 print (2021995)
+print (2021996)
 
 # print("Hello World! My name is Raduain Rimon.")
 # # drawing an imaginary dog
